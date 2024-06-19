@@ -1,4 +1,4 @@
-module github.com/alexzimmer96/go-postgis
+module github.com/Vaniog/go-postgis
 
 go 1.21
 
